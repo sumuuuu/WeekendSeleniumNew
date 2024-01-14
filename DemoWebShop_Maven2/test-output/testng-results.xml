@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Register page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Register TestCase Pass...]]>
+    </line>
+    <line>
+      <![CDATA[Register page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Register TestCase Pass...]]>
+    </line>
+    <line>
+      <![CDATA[Register page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Register TestCase Pass...]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-13T22:12:42 IST" name="Default suite" finished-at="2024-01-13T22:13:13 IST" duration-ms="31103">
+    <groups>
+      <group name="account">
+        <method signature="TC01_RegisterTestCase.testcase(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" name="testcase" class="TestScripts.TC01_RegisterTestCase"/>
+      </group> <!-- account -->
+    </groups>
+    <test started-at="2024-01-13T22:12:42 IST" name="Default test" finished-at="2024-01-13T22:13:13 IST" duration-ms="31103">
+      <class name="TestScripts.TC01_RegisterTestCase">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" started-at="2024-01-13T22:12:42 IST" name="launchBrowser" finished-at="2024-01-13T22:12:51 IST" duration-ms="8732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login1()[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" started-at="2024-01-13T22:12:53 IST" name="login1" finished-at="2024-01-13T22:12:55 IST" duration-ms="2451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method signature="testcase(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" started-at="2024-01-13T22:12:55 IST" name="testcase" data-provider="smruti" finished-at="2024-01-13T22:12:59 IST" duration-ms="3299" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sharuk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Khan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SharukKhan@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Dunki@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Dunki@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Register page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Register TestCase Pass...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" started-at="2024-01-13T22:12:59 IST" name="logout" finished-at="2024-01-13T22:12:59 IST" duration-ms="836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login1()[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" started-at="2024-01-13T22:12:59 IST" name="login1" finished-at="2024-01-13T22:13:02 IST" duration-ms="2375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method signature="testcase(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" started-at="2024-01-13T22:13:02 IST" name="testcase" data-provider="smruti" finished-at="2024-01-13T22:13:06 IST" duration-ms="4656" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Prabhas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Prabhas@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Salar@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Salar@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Register page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Register TestCase Pass...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" started-at="2024-01-13T22:13:06 IST" name="logout" finished-at="2024-01-13T22:13:07 IST" duration-ms="836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login1()[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" started-at="2024-01-13T22:13:07 IST" name="login1" finished-at="2024-01-13T22:13:09 IST" duration-ms="1693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method signature="testcase(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" started-at="2024-01-13T22:13:09 IST" name="testcase" data-provider="smruti" finished-at="2024-01-13T22:13:12 IST" duration-ms="3291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hritik]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roshan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hritik@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hritik#123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hritik#123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Register page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Register TestCase Pass...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" started-at="2024-01-13T22:13:12 IST" name="logout" finished-at="2024-01-13T22:13:13 IST" duration-ms="827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestScripts.TC01_RegisterTestCase@548d708a]" started-at="2024-01-13T22:13:13 IST" name="closeBrowser" finished-at="2024-01-13T22:13:13 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScripts.TC01_RegisterTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
